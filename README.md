@@ -4,7 +4,7 @@ k archers (or queens problem), they cannot shoot each other. An archer can shoot
 left, right and also diagonally an can reach the grid’s edges.
 A given NxN grid with walls.
 
-first line: size of the board
+first line: size of the board /n
 second line: number of archers
 next n lines: 0 - there is nothing, 2 - there is a wall
 output: 1 - archer
